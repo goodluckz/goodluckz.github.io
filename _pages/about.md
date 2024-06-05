@@ -9,6 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>National Institute of Informatics</p>
+    <p>2-1-2 Hitotsubashi</p>
     <p>Chiyoda City</p>
     <p>Tokyo, Japan</p>
 

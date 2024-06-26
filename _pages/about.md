@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://www.fukuda-lab.org/en/research.html'>Fukuda Lab</a>, Graduate Institute for Advanced Studies, SOKENDAI, <a href='https://www.nii.ac.jp/en/'>National Institute of Informatics</a>
-
+subtitle: Network Engineer, Researcher, Ph.D Candidate 🌏🔭🇨🇳🇯🇵
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>National Institute of Informatics</p>
+    <p><a href='http://www.fukuda-lab.org/en/research.html'>Fukuda Lab</a></p>
+    <p><a href='https://www.nii.ac.jp/en/'>National Institute of Informatics</a></p>
     <p>2-1-2 Hitotsubashi</p>
     <p>Chiyoda City</p>
     <p>Tokyo, Japan</p>
@@ -21,4 +21,16 @@ social: true  # includes social icons at the bottom of the page
 ---
 I'm a Ph.D. student at the Graduate Institute for Advanced Studies, SOKENDAI, National Institute of Informatics, Tokyo, Japan. I got my bachelor and master degree at the University of Tokyo.
 
-As a researcher with a background in networking and communication, I have been working on several projects related to Age of Information, Named Data Network, transport protocol, data caching, and IPv6 network.
+As a Ph.D. student specializing in the field of network and communication, I have been working on internet scan detection and threat analysis, mainly focused on IPv6.
+In addition to my current research, I have also worked on several projects related to Age of Information in IoT system, Named Data Network, congestion control, video streaming and data caching.
+
+My research interests include:
+- Network measurement, monitoring and detection, internet-wide scan detection, honeynet
+- Next generation network architecture, IPv6 network
+- Real-time applications, Age of Information
+- Machine Learning, Artificial Intelligence, Graph Neural Network
+- Transport layer protocols, congestion control, multimedia streaming, bitrate adaption
+- Informations Centric Network, caching
+- Cloud computing, Data Center Networks, Edge Computing
+- Distributed computing, peer-to-peer networks, Blockchain
+

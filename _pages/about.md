@@ -25,12 +25,12 @@ As a Ph.D. student specializing in the field of network and communication, I hav
 In addition to my current research, I have also worked on several projects related to Age of Information in IoT system, Named Data Network, congestion control, video streaming and data caching.
 
 My research interests include:
-- Network measurement, monitoring and detection, internet-wide scan detection, honeynet
-- Next generation network architecture, IPv6 network
+- Next generation network architectures, IPv6, Informations Centric Network, Web3
+- Network measurement, internet-wide scan monitoring and detection, honeypots
 - Real-time applications, Age of Information
 - Machine Learning, Artificial Intelligence, Graph Neural Network
-- Transport layer protocols, congestion control, multimedia streaming, bitrate adaption
-- Informations Centric Network, caching
+- Transport layer protocols, TCP BBR, QUIC, congestion control
+- Multimedia streaming, caching, bitrate adaptation
 - Cloud computing, Data Center Networks, Edge Computing
 - Distributed computing, peer-to-peer networks, Blockchain
 

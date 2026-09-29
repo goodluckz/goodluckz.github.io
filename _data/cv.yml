@@ -50,9 +50,6 @@
     - year: 2025
       items:
         - ACM SIGCOMM 2025 Student Travel Grant
-    - year: Undergraduate
-      items:
-        - First Prize, UTokyo Entrepreneur Dojo
 
 - title: Research Interests
   type: nested_list
